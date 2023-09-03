@@ -4,6 +4,18 @@
 
 <div align="center">
 
+## 🙍‍♂️ About me
+</div>
+
+<div align="left">
+
+Programmer/Scripter, Writer (Essays, Articles, Songs), Cyber security enthusiast, multilingual programmer/scripter, and I'm a multilingual speaker.
+
+Mr. Lolegic Forte, 18, Nerd™️
+</div>
+
+<div align="center">
+
 ## 📞 Contact me
 </div>
 <div align="center">
