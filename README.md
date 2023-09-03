@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=520&t=st=1693751342~exp=1693751942~hmac=1044fc863e480d0e3163a31ccd243990086f62bfcd366f3d6b989bf2243fe49e" height="140px"/></a>
+<a href="#"><img width="20%" height="auto" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=720&t=st=1693751342~exp=1693751942~hmac=1044fc863e480d0e3163a31ccd243990086f62bfcd366f3d6b989bf2243fe49e" height="140px"/></a>
 
 ## 📞 Contact me
 <a href="https://discord.gg/kY4UUV4eKp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kY4UUV4eKp" height="30" width="40" /></a>
