@@ -19,7 +19,13 @@ Jeremiah Jahnke aka (Mr. Lolegic), 16 year old Nerd™️
 ## 📞 Contact me
 </div>
 <div align="center">
-<a href="https://discord.gg/kY4UUV4eKp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kY4UUV4eKp" height="30" width="40" /></a>
+  
+#### Email: mrlolegic@gmail.com
+#### Discord: lolegic
+#### Discord Server: [Click Me!](https://discord.gg/kY4UUV4eKp)
+#### Linkedin: [Click Me!](https://www.linkedin.com/in/jeremiah-j-2a755026a/)
+#### Github: [Click Me!](https://github.com/MrLolegic)
+
 </div>
 
 <div align="center">
