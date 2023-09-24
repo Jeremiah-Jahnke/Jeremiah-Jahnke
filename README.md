@@ -11,7 +11,7 @@
 
 Programmer/Scripter, Writer (Essays, Articles, Songs), Cyber security enthusiast, multilingual programmer/scripter, and I'm a multilingual speaker.
 
-Mr. Lolegic Forte, 18, Nerd™️
+Jeremiah Jahnke aka (Mr. Lolegic), 16 year old Nerd™️
 </div>
 
 <div align="center">
