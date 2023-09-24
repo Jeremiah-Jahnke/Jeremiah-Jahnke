@@ -18,7 +18,7 @@ Jeremiah Jahnke aka (Mr. Lolegic), 16 year old Nerd™️
 
 ## 📞 Contact me
 </div>
-<div align="center">
+<div>
   
 #### Email: mrlolegic@gmail.com
 #### Discord: lolegic
