@@ -24,8 +24,8 @@
 
   ## Code Whisperer ⌨️
 
-  **Languages:** C (Intermediate), Lua (Expert), Python (Intermediate), C++ (Learning), C# (Learning), JavaScript (Learning)
-  **For Acedia:** Web development - (Frontend, Advanced, [Html, Css]) (Backend, Intermediate, [Django, Flask])
+  **Languages:** C (Intermediate), Lua (Expert), Python (Intermediate), C++ (Learning), C# (Learning), JavaScript (Learning) </br>
+  **For Acedia:** Web development - (Frontend, Advanced, [Html, Css]) (Backend, Intermediate, [Django, Flask]) </br>
   **Skills:** Web development, Machine learning (Python libraries & custom built libraries), Cybersecurity basics, Automation scripts
 </div>
 
