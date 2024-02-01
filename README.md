@@ -6,7 +6,7 @@
 
   ## Who I Am 
 
-  Jeremiah J. aka Mr. Lolegic, a 16-year-old nerd with a passion for programming, scripting, AI, and cybersecurity. I love learning new things and building innovative projects.
+  Jeremiah J. aka Mr. Lolegic, a 17-year-old nerd with a passion for programming, scripting, AI, and cybersecurity. I love learning new things and building innovative projects.
 
   **Nerd™️ by nature, innovator by choice.**
 
@@ -24,8 +24,8 @@
 
   ## Code Whisperer ⌨️
 
-  **Languages:** C (Intermediate), Lua (Expert), Python (Intermediate), Html (Advanced), CSS (Advanced), C++ (Learning), C# (Learning), JavaScript (Learning)
-
+  **Languages:** C (Intermediate), Lua (Expert), Python (Intermediate), C++ (Learning), C# (Learning), JavaScript (Learning)
+  **For Acedia:** Web development - (Frontend, Advanced, [Html, Css]) (Backend, Intermediate, [Django, Flask])
   **Skills:** Web development, Machine learning (Python libraries & custom built libraries), Cybersecurity basics, Automation scripts
 </div>
 
