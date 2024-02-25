@@ -17,7 +17,7 @@
 
   ## Connect with Me 
 
-  [Email](mailto:mrlolegic@gmail.com) | [Discord Tag: lolegic]() | [Discord Server](https://discord.gg/kY4UUV4eKp) | [Github](https://github.com/MrLolegic)
+  [Email](mailto:mrlolegic@gmail.com) | [Discord Tag: lolegic]() | [Discord Server](https://discord.gg/kY4UUV4eKp)
 </div>
 
 <div align="center">
