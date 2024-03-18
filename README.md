@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  ## Code Whisperer ⌨️
+  ## Languages I know ⌨️
 
   **Languages:** C (Intermediate), Lua (Expert), Python (Intermediate), C++ (Learning), C# (Learning), JavaScript (Learning) </br>
   **For Acedia:** Web development - (Frontend, Advanced, [Html, Css]) (Backend, Intermediate, [Django, Flask]) </br>
