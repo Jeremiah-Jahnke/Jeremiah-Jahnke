@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MrLolegic/MrLolegic/assets/90881896/eeac3520-9111-48ce-b127-0eb175d6c51f" width="200" height="200" alt="Mr. Lolegic" />
+  <img src="https://github.com/MrLolegic/MrLolegic/assets/90881896/3aa94fb7-da7e-4ab0-a7c5-3cd7659b8ff1" width="200" height="200" alt="Mr. Lolegic" />
 </div>
 
 <div align="center">
