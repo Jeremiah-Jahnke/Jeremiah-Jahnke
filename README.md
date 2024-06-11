@@ -34,7 +34,6 @@
   # My Projects 
 
   * [Mr. Logi]() - [AI Chatbot with a brain representation similar to a humans.]
-  * [HexaSecurity Prison]() - [Realistic prison game for the roblox platform.]
   * [More projects soon...]
 </div>
 
