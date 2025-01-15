@@ -11,8 +11,6 @@ Hi! I'm **Jeremiah J.**, a 17-year-old programmer with a passion for scripting, 
 ### Pseudonyms:
 - **Mr. Lolegic**
 
-[Check out more about me in my ReadMe](https://github.com/Jeremiah-Jahnke/Jeremiah-Jahnke/blob/main/README.md)
-
 ---
 
 ## 📬 Connect with Me
