@@ -54,31 +54,14 @@ Hi! I'm **Jeremiah J.**, a 17-year-old programmer with a passion for scripting, 
 
 ## 📊 GitHub Stats
 
-### **GitHub Profile Stats**  
-![Jeremiah's Stats](https://github-readme-stats.vercel.app/api?username=Jeremiah-Jahnke&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
 
-### **Streak Stats**  
-![Jeremiah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jahnke&theme=highcontrast&hide_border=true)
+  ![Jeremiah-Jahnke's Trophies](https://github-profile-trophy.vercel.app/?username=Jeremiah-Jahnke)
+  
+  ![Jeremiah-Jahnke's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Jahnke&theme=vue-dark&hide_border=false)
+  
+  ![Jeremiah-Jahnke's Stats](https://github-readme-stats.vercel.app/api?username=Jeremiah-Jahnke&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-### **Top Languages**  
-![Jeremiah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jahnke&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  ![Jeremiah-Jahnke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Jahnke&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jeremiah-Jahnke)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 Visitor Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jeremiah-Jahnke)
-
----
-
-## 🌐 Contributions Over Time
-
-![Jeremiah's Contribution Graph](https://github.com/Jeremiah-Jahnke/Jeremiah-Jahnke/blob/main/assets/github-contrib.svg)
-
----
+</div>
