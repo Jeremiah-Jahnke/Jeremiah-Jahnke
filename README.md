@@ -10,8 +10,10 @@
 
   **Nerd™️ by nature, innovator by choice.**
 
-  Pseudonyms:
-  - Mr. Lolegic
+  <div align="left">
+    Pseudonyms:
+    - Mr. Lolegic
+  </div>
 
   [Read more about me in my ReadMe](https://github.com/Jeremiah-Jahnke/Jeremiah-Jahnke/blob/main/README.md).
 </div>
