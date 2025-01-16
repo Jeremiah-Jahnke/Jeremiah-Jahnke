@@ -26,14 +26,15 @@ Hi! I'm **Jeremiah J.**, a 17-year-old programmer with a passion for scripting, 
 ### **Programming Languages**:
 - **C** (Intermediate)
 - **Lua** (Expert)
-- **Python** (Intermediate)
-- **C++** (Learning)
+- **Python** (Expert)
+- **C++** (Intermediate)
 - **C#** (Learning)
-- **JavaScript** (Learning)
+- **JavaScript** (Intermediate)
+- **Java** (Learning)
 
 ### **For Acedia (Web Development)**:
-- **Frontend**: HTML, CSS (Advanced)
-- **Backend**: Django, Flask (Intermediate)
+- **Frontend**: Svelte, EJS
+- **Backend**: Express, Django (Intermediate)
 
 ### **Skills**:
 - Web Development
