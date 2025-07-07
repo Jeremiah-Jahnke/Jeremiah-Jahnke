@@ -9,7 +9,7 @@ Hi! I'm **Jeremiah J.**, a 17-year-old programmer with a passion for scripting, 
 **Nerd™️ by nature, innovator by choice.**
 
 ### Pseudonyms:
-- **Mr. Lolegic**
+- **0xS3C**
 
 ---
 
