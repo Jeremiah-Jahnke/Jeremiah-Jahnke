@@ -15,8 +15,8 @@ Hi! I'm **Jeremiah J.**, a 17-year-old programmer with a passion for scripting, 
 
 ## 📬 Connect with Me
 
-- **Email**: [mrlolegic@gmail.com](mailto:mrlolegic@gmail.com)
-- **Discord Tag**: `.jeremiahj.`
+- **Email**: [jeremiah@logisec.net](mailto:jeremiah@logisec.net)
+- **Discord Tag**: `0xs3c`
 - **Discord Server**: [Join my server](https://discord.gg/kY4UUV4eKp)
 
 ---
