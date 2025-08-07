@@ -16,16 +16,6 @@ If you’re just starting out or feeling overwhelmed, know that you’re not alo
 
 **Nerd™️ by nature, innovator by choice.**
 
-### Pseudonyms:
-- **0xS3C**
-
----
-
-## 📬 Connect with Me
-
-- **Email**: [jeremiah@logisec.net](mailto:jeremiah@logisec.net)
-- **Discord Tag**: `0xs3c`
-
 ---
 
 ## 🧠 Things I Know
